@@ -118,4 +118,10 @@ Vous pouvez alors ouvrir la page Node-RED locale sur [http://127.0.0.1:1880](htt
 21. Ajoutez le nouveau fichier avec `git add`.
 22. `commit` pour ajouter vos changements.
 23. Publier votre `commit` avec `git push origin` (ou `git push --set_upstream origin etape_1` pour associer la branche sur le repo distant si c'est votre premier push sur cette branche)
+
+---
+
+## <ins>Si vous êtes en galère...</ins>
+J'ai un montage qui tourne en permanence (a priori...) et qui publie sur les sujets `TD00_GP00/temp` et `TD00_GP00/relhum`. Vous pouvez l'utiliser pour finir votre dashboard même si vous n'avez pas accès aux montages.
+
 ---
