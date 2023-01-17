@@ -240,7 +240,7 @@
         "order": 0,
         "width": 0,
         "height": 0,
-        "label": "Température en degré",
+        "label": "Température en degrés",
         "chartType": "line",
         "legend": "false",
         "xformat": "HH:mm:ss",
